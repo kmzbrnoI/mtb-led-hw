@@ -1292,6 +1292,148 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector_Generic:Conn_01x02"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_1_1"
+				(rectangle
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -1.27 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -5968,6 +6110,12 @@
 		(uuid "a2f7bebb-4bf7-44f7-84d6-e6724c4ff4e2")
 	)
 	(junction
+		(at 87.63 21.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a97ff5dd-7f61-4513-86cd-b874117e8931")
+	)
+	(junction
 		(at 25.4 177.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6100,8 +6248,28 @@
 		(uuid "2cd3da27-15dd-4d14-beb3-b6f089e68bfc")
 	)
 	(no_connect
+		(at 254 92.71)
+		(uuid "3193c6d5-2d9d-4c18-aadb-1b31a26b9c88")
+	)
+	(no_connect
+		(at 223.52 102.87)
+		(uuid "41c5ea0b-a6fb-4d38-b1ea-f9b1a7b937d3")
+	)
+	(no_connect
+		(at 254 95.25)
+		(uuid "8e42f989-a934-4048-978f-18f275764759")
+	)
+	(no_connect
+		(at 223.52 97.79)
+		(uuid "c10e63b7-1f70-4fcb-a1f6-5c2306b57843")
+	)
+	(no_connect
 		(at 80.01 127)
 		(uuid "dc618c78-8fb9-4e26-ab47-b39be750871a")
+	)
+	(no_connect
+		(at 223.52 105.41)
+		(uuid "dd76bf63-d6ea-40c9-a1c2-668ac84c7c2e")
 	)
 	(no_connect
 		(at 95.25 185.42)
@@ -7522,6 +7690,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 87.63) (xy 269.24 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b9ff5a4-17bb-4091-a59e-3c86b5579c59")
+	)
+	(wire
+		(pts
 			(xy 199.39 44.45) (xy 223.52 44.45)
 		)
 		(stroke
@@ -8582,6 +8760,16 @@
 	)
 	(wire
 		(pts
+			(xy 100.33 27.94) (xy 100.33 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b13d0d16-25e0-415f-bf0d-66a8a01b65cd")
+	)
+	(wire
+		(pts
 			(xy 156.21 40.64) (xy 156.21 43.18)
 		)
 		(stroke
@@ -9222,6 +9410,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 21.59) (xy 87.63 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7000a21-45f4-4782-a820-96539dfc83cd")
+	)
+	(wire
+		(pts
 			(xy 204.47 139.7) (xy 228.6 139.7)
 		)
 		(stroke
@@ -9642,6 +9840,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 90.17) (xy 269.24 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f82f5d80-ffa7-48b5-b1ef-3075c3432a2d")
+	)
+	(wire
+		(pts
 			(xy 59.69 119.38) (xy 43.18 119.38)
 		)
 		(stroke
@@ -9910,6 +10118,16 @@
 		)
 		(uuid "540ab760-da40-40ac-9870-f781293c93fd")
 	)
+	(label "DEBUG2"
+		(at 256.54 90.17 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5576224f-46d2-4365-9a78-59f0632ecfb7")
+	)
 	(label "MTB-DE"
 		(at 220.98 95.25 180)
 		(effects
@@ -10139,6 +10357,16 @@
 			(justify left bottom)
 		)
 		(uuid "d319db4e-9483-4054-8d7b-d1efdf0987ac")
+	)
+	(label "DEBUG1"
+		(at 256.54 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d8550ce1-29fc-475b-bce8-b888039429fa")
 	)
 	(label "MOSI"
 		(at 220.98 52.07 180)
@@ -13268,6 +13496,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 87.63 22.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "89c37fb5-373b-4904-8477-3cae72279c0d")
+		(property "Reference" "#FLG04"
+			(at 87.63 24.765 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 87.63 26.9931 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 87.63 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.63 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 87.63 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0ddb4cd7-f2f4-485a-8ffc-de0a8467b0b6")
+		)
+		(instances
+			(project "mtb-led"
+				(path "/9b6fd623-fb10-45ec-a573-56e63cefdd06"
+					(reference "#FLG04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 133.35 101.6 0)
 		(unit 1)
@@ -13484,6 +13778,75 @@
 			(project ""
 				(path "/9b6fd623-fb10-45ec-a573-56e63cefdd06"
 					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 274.32 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "90ca589c-9a30-4645-9434-7858d56bf62d")
+		(property "Reference" "J8"
+			(at 276.86 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 276.352 90.1122 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 274.32 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 274.32 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 274.32 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b89f20df-4c55-4896-81c1-0120d5bd0ec5")
+		)
+		(pin "1"
+			(uuid "77db3233-4129-40d2-8847-224e0c69371e")
+		)
+		(instances
+			(project ""
+				(path "/9b6fd623-fb10-45ec-a573-56e63cefdd06"
+					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -14745,6 +15108,72 @@
 			(project "mtb-led"
 				(path "/9b6fd623-fb10-45ec-a573-56e63cefdd06"
 					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 100.33 27.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c9db6547-b780-421d-804e-70d933829a8f")
+		(property "Reference" "#FLG03"
+			(at 100.33 26.035 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 100.33 23.8069 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 100.33 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 100.33 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 100.33 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "79fb26f1-9d74-4eef-88a7-a8a91f06ccd4")
+		)
+		(instances
+			(project "mtb-led"
+				(path "/9b6fd623-fb10-45ec-a573-56e63cefdd06"
+					(reference "#FLG03")
 					(unit 1)
 				)
 			)
