@@ -2,8 +2,18 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 9b6fd623-fb10-45ec-a573-56e63cefdd06)
+	(uuid "9b6fd623-fb10-45ec-a573-56e63cefdd06")
 	(paper "A4")
+	(title_block
+		(title "MTB-LED - MTBbus LED driver - root schematic")
+		(date "2026-05-10")
+		(rev "1.0")
+		(company "Model Railroader Club Brno I – KMŽ Brno I – https://kmz-brno.cz/")
+		(comment 1 "Jan Malina")
+		(comment 2 "https://github.com/kmzbrnoI/mtb-led-hw https://mtb.kmz-brno.cz/")
+		(comment 3 "https://creativecommons.org/licenses/by-sa/4.0/")
+		(comment 4 "Released under the Creative Commons Attribution-ShareAlike 4.0 License")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
