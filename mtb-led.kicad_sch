@@ -1435,7 +1435,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_02x04_Odd_Even"
+		(symbol "Connector_Generic:Conn_02x05_Odd_Even"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -1444,14 +1444,14 @@
 			(in_bom yes)
 			(on_board yes)
 			(property "Reference" "J"
-				(at 1.27 5.08 0)
+				(at 1.27 7.62 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Value" "Conn_02x04_Odd_Even"
+			(property "Value" "Conn_02x05_Odd_Even"
 				(at 1.27 -7.62 0)
 				(effects
 					(font
@@ -1477,7 +1477,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1504,9 +1504,9 @@
 					(hide yes)
 				)
 			)
-			(symbol "Conn_02x04_Odd_Even_1_1"
+			(symbol "Conn_02x05_Odd_Even_1_1"
 				(rectangle
-					(start -1.27 3.81)
+					(start -1.27 6.35)
 					(end 3.81 -6.35)
 					(stroke
 						(width 0.254)
@@ -1514,6 +1514,17 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+				(rectangle
+					(start -1.27 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
 					)
 				)
 				(rectangle
@@ -1552,6 +1563,17 @@
 				(rectangle
 					(start -1.27 -4.953)
 					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 3.81 5.207)
+					(end 2.54 4.953)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -1605,7 +1627,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 2.54 0)
+					(at -5.08 5.08 0)
 					(length 3.81)
 					(name "Pin_1"
 						(effects
@@ -1623,7 +1645,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 0 0)
+					(at -5.08 2.54 0)
 					(length 3.81)
 					(name "Pin_3"
 						(effects
@@ -1641,7 +1663,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -2.54 0)
+					(at -5.08 0 0)
 					(length 3.81)
 					(name "Pin_5"
 						(effects
@@ -1659,7 +1681,7 @@
 					)
 				)
 				(pin passive line
-					(at -5.08 -5.08 0)
+					(at -5.08 -2.54 0)
 					(length 3.81)
 					(name "Pin_7"
 						(effects
@@ -1677,7 +1699,25 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 2.54 180)
+					(at -5.08 -5.08 0)
+					(length 3.81)
+					(name "Pin_9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 5.08 180)
 					(length 3.81)
 					(name "Pin_2"
 						(effects
@@ -1695,7 +1735,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 0 180)
+					(at 7.62 2.54 180)
 					(length 3.81)
 					(name "Pin_4"
 						(effects
@@ -1713,7 +1753,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 -2.54 180)
+					(at 7.62 0 180)
 					(length 3.81)
 					(name "Pin_6"
 						(effects
@@ -1731,7 +1771,7 @@
 					)
 				)
 				(pin passive line
-					(at 7.62 -5.08 180)
+					(at 7.62 -2.54 180)
 					(length 3.81)
 					(name "Pin_8"
 						(effects
@@ -1741,6 +1781,24 @@
 						)
 					)
 					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -5.08 180)
+					(length 3.81)
+					(name "Pin_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -8041,6 +8099,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 180.34) (xy 143.51 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "472bb47b-1783-4fca-9c74-3f1f7cc63438")
+	)
+	(wire
+		(pts
 			(xy 25.4 158.75) (xy 22.86 158.75)
 		)
 		(stroke
@@ -8281,6 +8349,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 166.37) (xy 144.78 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5aeeecef-5edd-407f-a392-cc5d80ef362f")
+	)
+	(wire
+		(pts
 			(xy 25.4 69.85) (xy 25.4 92.71)
 		)
 		(stroke
@@ -8518,6 +8596,16 @@
 			(type default)
 		)
 		(uuid "6fe0f76b-e58e-4932-850f-d26739acbaff")
+	)
+	(wire
+		(pts
+			(xy 129.54 180.34) (xy 130.81 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "702d5abe-42f8-49f4-9345-62f15d9c6695")
 	)
 	(wire
 		(pts
@@ -9398,6 +9486,16 @@
 			(type default)
 		)
 		(uuid "b9f02876-8312-4656-b5f1-0123f17842b2")
+	)
+	(wire
+		(pts
+			(xy 129.54 181.61) (xy 129.54 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "baa0ef85-302f-423b-a034-67e4c4bebfea")
 	)
 	(wire
 		(pts
@@ -11621,6 +11719,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 129.54 181.61 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "07af0f2f-d19d-460b-8070-87b96ef6f94b")
+		(property "Reference" "#PWR030"
+			(at 129.54 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 129.54 185.7431 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 129.54 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 129.54 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d03819fb-f873-4068-95fe-c8f3e3461b16")
+		)
+		(instances
+			(project "mtb-led"
+				(path "/9b6fd623-fb10-45ec-a573-56e63cefdd06"
+					(reference "#PWR030")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Screw_Terminal_01x10")
 		(at 17.78 146.05 0)
 		(mirror y)
@@ -11665,6 +11830,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 17.78 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
 			(at 17.78 146.05 0)
 			(effects
 				(font
@@ -13626,7 +13800,7 @@
 		(lib_id "Graphic:Logo_Open_Hardware_Small")
 		(at 143.51 134.62 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board no)
 		(dnp no)
@@ -13669,15 +13843,6 @@
 			)
 		)
 		(property "Description" "Open Hardware logo, small"
-			(at 143.51 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Enable" "0"
 			(at 143.51 134.62 0)
 			(effects
 				(font
@@ -14296,6 +14461,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 17.78 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
 			(at 17.78 175.26 0)
 			(effects
 				(font
@@ -14950,8 +15124,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_02x04_Odd_Even")
-		(at 135.89 172.72 0)
+		(lib_id "Connector_Generic:Conn_02x05_Odd_Even")
+		(at 135.89 175.26 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14976,7 +15150,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 172.72 0)
+			(at 135.89 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14985,7 +15159,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 135.89 172.72 0)
+			(at 135.89 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14993,8 +15167,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x04, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 135.89 172.72 0)
+		(property "Description" "Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 135.89 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15025,6 +15199,12 @@
 		)
 		(pin "8"
 			(uuid "88be0927-e412-4d7d-83e2-f390e5954bbe")
+		)
+		(pin "10"
+			(uuid "322dd78f-01cc-4b41-ba21-c6531da69691")
+		)
+		(pin "9"
+			(uuid "e733de94-4a31-4d07-a8c7-29368dbe27d0")
 		)
 		(instances
 			(project ""
@@ -15893,6 +16073,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 144.78 166.37 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad0bc19b-feab-43e2-9541-16c6a6d08d4b")
+		(property "Reference" "#PWR031"
+			(at 144.78 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 144.78 162.2369 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 144.78 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "377ab590-52aa-4be9-b1f1-81458e87a889")
+		)
+		(instances
+			(project "mtb-led"
+				(path "/9b6fd623-fb10-45ec-a573-56e63cefdd06"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 90.17 138.43 0)
 		(unit 1)
@@ -16003,6 +16250,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 17.78 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
 			(at 17.78 80.01 0)
 			(effects
 				(font
@@ -16588,6 +16844,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 17.78 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
 			(at 17.78 109.22 0)
 			(effects
 				(font
