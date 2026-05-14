@@ -11825,8 +11825,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x10")
-		(at 17.78 146.05 0)
-		(mirror y)
+		(at 17.78 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11834,7 +11833,7 @@
 		(dnp no)
 		(uuid "0b73e57a-30b2-47b9-8a9c-e4211e6e14ca")
 		(property "Reference" "J5"
-			(at 17.78 133.35 0)
+			(at 17.78 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11842,15 +11841,15 @@
 			)
 		)
 		(property "Value" "~"
-			(at 17.78 133.6429 0)
+			(at 17.78 160.9971 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_12-G-3.5_1x12_P3.50mm_Horizontal"
-			(at 17.78 146.05 0)
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal"
+			(at 17.78 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11859,7 +11858,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 17.78 146.05 0)
+			(at 17.78 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11868,7 +11867,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 17.78 146.05 0)
+			(at 17.78 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11877,7 +11876,7 @@
 			)
 		)
 		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
-			(at 17.78 146.05 0)
+			(at 17.78 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14465,8 +14464,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x10")
-		(at 17.78 175.26 0)
-		(mirror y)
+		(at 17.78 177.8 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14474,7 +14472,7 @@
 		(dnp no)
 		(uuid "6ec29746-a1af-4feb-8a10-72f3f7ea3dc4")
 		(property "Reference" "J6"
-			(at 17.78 162.56 0)
+			(at 17.78 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14482,15 +14480,15 @@
 			)
 		)
 		(property "Value" "~"
-			(at 17.78 162.8529 0)
+			(at 17.78 190.2071 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_12-G-3.5_1x12_P3.50mm_Horizontal"
-			(at 17.78 175.26 0)
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal"
+			(at 17.78 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14499,7 +14497,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 17.78 175.26 0)
+			(at 17.78 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14508,7 +14506,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 17.78 175.26 0)
+			(at 17.78 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14517,7 +14515,7 @@
 			)
 		)
 		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
-			(at 17.78 175.26 0)
+			(at 17.78 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16254,8 +16252,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x10")
-		(at 17.78 80.01 0)
-		(mirror y)
+		(at 17.78 82.55 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16263,7 +16260,7 @@
 		(dnp no)
 		(uuid "adfab6fd-7c27-4c78-bfa2-3e3c17ec227d")
 		(property "Reference" "J3"
-			(at 17.78 67.31 0)
+			(at 17.78 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16271,15 +16268,15 @@
 			)
 		)
 		(property "Value" "~"
-			(at 17.78 67.6029 0)
+			(at 17.78 94.9571 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_12-G-3.5_1x12_P3.50mm_Horizontal"
-			(at 17.78 80.01 0)
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal"
+			(at 17.78 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16288,7 +16285,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 17.78 80.01 0)
+			(at 17.78 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16297,7 +16294,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 17.78 80.01 0)
+			(at 17.78 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16306,7 +16303,7 @@
 			)
 		)
 		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
-			(at 17.78 80.01 0)
+			(at 17.78 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16857,8 +16854,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x10")
-		(at 17.78 109.22 0)
-		(mirror y)
+		(at 17.78 111.76 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16866,7 +16862,7 @@
 		(dnp no)
 		(uuid "c99536fd-7fdf-445d-b214-2b2848c86559")
 		(property "Reference" "J4"
-			(at 17.78 96.52 0)
+			(at 17.78 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16874,15 +16870,15 @@
 			)
 		)
 		(property "Value" "~"
-			(at 17.78 96.8129 0)
+			(at 17.78 124.1671 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_12-G-3.5_1x12_P3.50mm_Horizontal"
-			(at 17.78 109.22 0)
+		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_10-G-3.5_1x10_P3.50mm_Horizontal"
+			(at 17.78 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16891,7 +16887,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 17.78 109.22 0)
+			(at 17.78 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16900,7 +16896,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 17.78 109.22 0)
+			(at 17.78 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16909,7 +16905,7 @@
 			)
 		)
 		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
-			(at 17.78 109.22 0)
+			(at 17.78 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
