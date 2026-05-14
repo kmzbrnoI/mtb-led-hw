@@ -10605,7 +10605,7 @@
 		)
 		(uuid "0371a0af-bacb-48a7-bb72-c09e410e6db2")
 	)
-	(label "OUT27"
+	(label "OUT3"
 		(at 57.15 175.26 180)
 		(effects
 			(font
@@ -10645,7 +10645,7 @@
 		)
 		(uuid "085a5a9b-5d9c-45e7-b7a7-01bef97d4d52")
 	)
-	(label "OUT19"
+	(label "OUT27"
 		(at 57.15 154.94 180)
 		(effects
 			(font
@@ -10655,7 +10655,7 @@
 		)
 		(uuid "0b69e05a-1b2d-4d84-a527-907eca22f189")
 	)
-	(label "OUT17"
+	(label "OUT25"
 		(at 57.15 149.86 180)
 		(effects
 			(font
@@ -10675,7 +10675,7 @@
 		)
 		(uuid "0e421d53-48a7-493d-91d4-07a4bd523bb9")
 	)
-	(label "OUT5"
+	(label "OUT13"
 		(at 57.15 93.98 180)
 		(effects
 			(font
@@ -10685,7 +10685,7 @@
 		)
 		(uuid "11d2b71a-64e0-4387-81c1-dcc90032740c")
 	)
-	(label "OUT15"
+	(label "OUT23"
 		(at 57.15 119.38 180)
 		(effects
 			(font
@@ -10695,7 +10695,7 @@
 		)
 		(uuid "14700cf2-6bff-491e-a5ab-89887dc66bd1")
 	)
-	(label "OUT1"
+	(label "OUT9"
 		(at 57.15 83.82 180)
 		(effects
 			(font
@@ -10715,7 +10715,7 @@
 		)
 		(uuid "175f513b-3148-408a-a644-381ec61d08fa")
 	)
-	(label "OUT30"
+	(label "OUT6"
 		(at 57.15 182.88 180)
 		(effects
 			(font
@@ -10725,7 +10725,7 @@
 		)
 		(uuid "1a3a86a7-9918-4f66-bf8b-d39aa178d182")
 	)
-	(label "OUT25"
+	(label "OUT1"
 		(at 57.15 170.18 180)
 		(effects
 			(font
@@ -10735,7 +10735,7 @@
 		)
 		(uuid "255154a0-f011-410c-abef-25eab2939fbe")
 	)
-	(label "OUT24"
+	(label "OUT0"
 		(at 57.15 167.64 180)
 		(effects
 			(font
@@ -10755,7 +10755,7 @@
 		)
 		(uuid "282d37e9-556c-4bec-9d0f-5d8a0abd0303")
 	)
-	(label "OUT11"
+	(label "OUT19"
 		(at 57.15 109.22 180)
 		(effects
 			(font
@@ -10795,7 +10795,7 @@
 		)
 		(uuid "313598ca-a507-41a0-bb48-a9390bc14652")
 	)
-	(label "OUT9"
+	(label "OUT17"
 		(at 57.15 104.14 180)
 		(effects
 			(font
@@ -10875,7 +10875,7 @@
 		)
 		(uuid "468975ea-d950-4b2d-be5b-3e8430952f95")
 	)
-	(label "OUT2"
+	(label "OUT10"
 		(at 57.15 86.36 180)
 		(effects
 			(font
@@ -10895,7 +10895,7 @@
 		)
 		(uuid "4baa8264-208b-4bf2-a912-b1e41a39c34c")
 	)
-	(label "OUT31"
+	(label "OUT7"
 		(at 57.15 185.42 180)
 		(effects
 			(font
@@ -10945,7 +10945,7 @@
 		)
 		(uuid "5bdd6a80-1410-4697-b905-bee6d95e5e24")
 	)
-	(label "OUT21"
+	(label "OUT29"
 		(at 57.15 160.02 180)
 		(effects
 			(font
@@ -10955,7 +10955,7 @@
 		)
 		(uuid "5d1444a2-ce99-4cc2-8c8c-22c393895760")
 	)
-	(label "OUT20"
+	(label "OUT28"
 		(at 57.15 157.48 180)
 		(effects
 			(font
@@ -11005,7 +11005,7 @@
 		)
 		(uuid "668c6497-9a1d-4e38-a6ae-bb7511407c8c")
 	)
-	(label "OUT12"
+	(label "OUT20"
 		(at 57.15 111.76 180)
 		(effects
 			(font
@@ -11025,7 +11025,7 @@
 		)
 		(uuid "67f28f25-94da-4893-9b35-8488562e0341")
 	)
-	(label "OUT14"
+	(label "OUT22"
 		(at 57.15 116.84 180)
 		(effects
 			(font
@@ -11045,7 +11045,7 @@
 		)
 		(uuid "694aeedc-74b9-467a-b266-2c0dba2b51b8")
 	)
-	(label "OUT0"
+	(label "OUT8"
 		(at 57.15 81.28 180)
 		(effects
 			(font
@@ -11055,7 +11055,7 @@
 		)
 		(uuid "6a0a62a8-9be7-460e-9bc2-dba516081b7f")
 	)
-	(label "OUT18"
+	(label "OUT26"
 		(at 57.15 152.4 180)
 		(effects
 			(font
@@ -11085,7 +11085,7 @@
 		)
 		(uuid "7710fc4a-d994-4534-8a8e-3e95651f3612")
 	)
-	(label "OUT23"
+	(label "OUT31"
 		(at 57.15 165.1 180)
 		(effects
 			(font
@@ -11165,7 +11165,7 @@
 		)
 		(uuid "929da350-2b9a-4dd8-8a6f-ef3870ded1ab")
 	)
-	(label "OUT7"
+	(label "OUT15"
 		(at 57.15 99.06 180)
 		(effects
 			(font
@@ -11175,7 +11175,7 @@
 		)
 		(uuid "98a8cb45-7561-41ef-adf6-721878210467")
 	)
-	(label "OUT3"
+	(label "OUT11"
 		(at 57.15 88.9 180)
 		(effects
 			(font
@@ -11185,7 +11185,7 @@
 		)
 		(uuid "99945dfa-30a3-454e-84ff-6cb0f48b62ff")
 	)
-	(label "OUT22"
+	(label "OUT30"
 		(at 57.15 162.56 180)
 		(effects
 			(font
@@ -11195,7 +11195,7 @@
 		)
 		(uuid "9a9f4433-fed1-4384-9f2b-27ac39b2ab1c")
 	)
-	(label "OUT4"
+	(label "OUT12"
 		(at 57.15 91.44 180)
 		(effects
 			(font
@@ -11265,7 +11265,7 @@
 		)
 		(uuid "b2cd6f21-e13d-45cb-9312-d26823fcfced")
 	)
-	(label "OUT8"
+	(label "OUT16"
 		(at 57.15 101.6 180)
 		(effects
 			(font
@@ -11295,7 +11295,7 @@
 		)
 		(uuid "b5a641f1-c14f-43b9-bcd8-339ad594505c")
 	)
-	(label "OUT6"
+	(label "OUT14"
 		(at 57.15 96.52 180)
 		(effects
 			(font
@@ -11345,7 +11345,7 @@
 		)
 		(uuid "cefe6558-7f81-4d27-aec5-94a38348b61a")
 	)
-	(label "OUT10"
+	(label "OUT18"
 		(at 57.15 106.68 180)
 		(effects
 			(font
@@ -11375,7 +11375,7 @@
 		)
 		(uuid "d319db4e-9483-4054-8d7b-d1efdf0987ac")
 	)
-	(label "OUT16"
+	(label "OUT24"
 		(at 57.15 147.32 180)
 		(effects
 			(font
@@ -11405,7 +11405,7 @@
 		)
 		(uuid "d858fcdd-aba6-456e-b7b0-659c3f1030c1")
 	)
-	(label "OUT13"
+	(label "OUT21"
 		(at 57.15 114.3 180)
 		(effects
 			(font
@@ -11445,7 +11445,7 @@
 		)
 		(uuid "dd1853cb-591b-45cf-b643-1727d057ea5c")
 	)
-	(label "OUT29"
+	(label "OUT5"
 		(at 57.15 180.34 180)
 		(effects
 			(font
@@ -11485,7 +11485,7 @@
 		)
 		(uuid "efe39d92-5ba0-4110-8f16-dd513e23d828")
 	)
-	(label "OUT26"
+	(label "OUT2"
 		(at 57.15 172.72 180)
 		(effects
 			(font
@@ -11495,7 +11495,7 @@
 		)
 		(uuid "f0e831c3-926d-4eb5-9b95-a572a5ad1975")
 	)
-	(label "OUT28"
+	(label "OUT4"
 		(at 57.15 177.8 180)
 		(effects
 			(font
