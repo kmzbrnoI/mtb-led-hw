@@ -6519,6 +6519,14 @@
 			(embedded_fonts no)
 		)
 	)
+	(bus_alias "LEDS"
+		(members "LED_RED" "LED_GREEN" "LED_BLUE")
+	)
+	(bus_alias "TLC-MCU"
+		(members "VPRG" "DCPRG" "GSCLK" "BLANK" "XLAT" "XERR" "SCK" "MOSI" "RST"
+			"MISO"
+		)
+	)
 	(text "Short-circuit max\n250 mA"
 		(exclude_from_sim no)
 		(at 161.29 109.22 0)
@@ -10887,6 +10895,16 @@
 		)
 		(uuid "4812ec2d-e911-4f8f-b46e-c6781c840362")
 	)
+	(label "{BUS+,BUS-}"
+		(at 68.58 62.23 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4baa8264-208b-4bf2-a912-b1e41a39c34c")
+	)
 	(label "OUT31"
 		(at 57.15 185.42 180)
 		(effects
@@ -11237,6 +11255,16 @@
 		)
 		(uuid "b1ea7e93-d26c-4e3c-a45c-af2529fb9d42")
 	)
+	(label "{TLC-MCU}"
+		(at 139.7 187.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b2cd6f21-e13d-45cb-9312-d26823fcfced")
+	)
 	(label "OUT8"
 		(at 57.15 101.6 180)
 		(effects
@@ -11256,6 +11284,16 @@
 			(justify left bottom)
 		)
 		(uuid "b4901162-b270-4f59-86c2-6c3c4fa8d6cc")
+	)
+	(label "{LEDS}"
+		(at 196.85 58.42 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b5a641f1-c14f-43b9-bcd8-339ad594505c")
 	)
 	(label "OUT6"
 		(at 57.15 96.52 180)
