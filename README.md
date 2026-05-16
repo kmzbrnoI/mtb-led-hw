@@ -17,11 +17,11 @@ Schematics & PCB are designed in KiCad 9.
 ## Production
 
 PCB is prepared to be automatically assembled in [JLCPCB](https://jlcpcb.com/).
-SMD parts on **bootom** side should be assembled. Each SMD part has its `LCSC_ITEM`
+SMD parts on **bootom** side should be assembled. Each SMD part has its `LCSC`
 attribute set.
 
 ```bash
-$ kikit fab jlcpcb --assembly --schematic mtb-led.sch mtb-led.kicad_pcb fab
+$ make
 ```
 
 ## Parameters

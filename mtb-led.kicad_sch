@@ -11763,6 +11763,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 83.82 69.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a1b977d3-3e59-4f5f-96c9-7cd6eb53b2cb")
 		)
@@ -11972,6 +11981,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 17.78 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "a105b561-aecf-497e-bc08-c8214e07db74")
 		)
@@ -12124,6 +12142,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 270.51 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C1804"
 			(at 270.51 68.58 0)
 			(effects
 				(font
@@ -12334,6 +12361,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C45783"
+			(at 100.33 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "535f3ac7-a9ff-45b1-8001-cc9fd4fc6c95")
 		)
@@ -12395,6 +12431,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 129.54 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 129.54 128.27 0)
 			(effects
 				(font
@@ -12532,6 +12577,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 264.16 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0c4f1a5-7791-4c1f-a0f2-b59b4f1f618d")
 		)
@@ -12660,6 +12714,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 259.08 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C49678"
 			(at 259.08 40.64 0)
 			(effects
 				(font
@@ -12932,6 +12995,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 165.1 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da57b8e1-2d19-4d5d-b747-8c6f011017c9")
 		)
@@ -12994,6 +13066,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 269.24 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 269.24 144.78 0)
 			(effects
 				(font
@@ -13133,6 +13214,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 163.83 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "019bf626-3de2-4465-99fa-01ad6e72a836")
 		)
@@ -13196,6 +13286,24 @@
 		)
 		(property "Description" "300mW Zener Diode, SOT-23"
 			(at 67.31 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C896938"
+			(at 67.31 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;180"
+			(at 67.31 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13268,6 +13376,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 184.15 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17414"
 			(at 184.15 100.33 0)
 			(effects
 				(font
@@ -13410,6 +13527,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 181.61 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95605d3d-00c5-48c4-8ff2-cf1ba74f8fa6")
 		)
@@ -13468,6 +13594,15 @@
 			)
 		)
 		(property "Description" "40V 3A Schottky Diode, SMA"
+			(at 60.96 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C8678"
 			(at 60.96 21.59 0)
 			(effects
 				(font
@@ -13686,6 +13821,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 46.99 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3ad25b46-0106-43d0-a3da-a895fa73693b")
 		)
@@ -13749,6 +13893,24 @@
 			)
 		)
 		(property "Description" "20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, TQFP-32"
+			(at 238.76 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C132230"
+			(at 238.76 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;-90"
 			(at 238.76 74.93 0)
 			(effects
 				(font
@@ -14053,6 +14215,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 177.8 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "17b6e173-6c25-4a37-942b-2722255939fa")
 		)
@@ -14113,6 +14284,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 165.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17520"
+			(at 165.1 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14182,6 +14362,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 67.31 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17520"
 			(at 67.31 45.72 0)
 			(effects
 				(font
@@ -14327,6 +14516,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 214.63 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "dcfe5f63-6fdd-41fe-950d-eb31a5937147")
 		)
@@ -14387,6 +14585,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 186.69 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 186.69 82.55 0)
 			(effects
 				(font
@@ -14527,6 +14734,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 17.78 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0a7975e2-9575-4696-bda3-9038cc22a475")
 		)
@@ -14601,6 +14817,15 @@
 			)
 		)
 		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
+			(at 17.78 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 17.78 146.05 0)
 			(effects
 				(font
@@ -14769,6 +14994,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 54.61 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8118f014-5e43-4998-8975-334179a06975")
 		)
@@ -14831,6 +15065,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 77.47 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C49678"
 			(at 77.47 45.72 0)
 			(effects
 				(font
@@ -15033,6 +15276,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 113.03 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17604"
 			(at 113.03 90.17 0)
 			(effects
 				(font
@@ -15307,6 +15559,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 135.89 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "bb37676e-6b63-4110-825e-cfd2aa97e984")
 		)
@@ -15469,6 +15730,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 157.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "8"
 			(uuid "6bc5ab6c-7998-42ef-99b7-e28840ca087e")
 		)
@@ -15556,6 +15826,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 274.32 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b89f20df-4c55-4896-81c1-0120d5bd0ec5")
 		)
@@ -15618,6 +15897,15 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 208.28 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 208.28 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15760,6 +16048,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 227.33 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "04fc5e7c-d210-4347-845c-2df26eb6bea3")
 		)
@@ -15822,6 +16119,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 96.52 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C45783"
 			(at 96.52 26.67 0)
 			(effects
 				(font
@@ -15900,6 +16206,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C1804"
+			(at 270.51 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6a7fc965-6a0c-492c-bb56-a1d22909ec6d")
 		)
@@ -15970,6 +16285,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 250.19 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b105d841-6c98-421e-b55b-ca302b6ef25d")
 		)
@@ -16030,6 +16354,15 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 191.77 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 191.77 82.55 0)
 			(effects
 				(font
@@ -16111,6 +16444,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 177.8 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9d3d48ee-3040-40f7-ada9-0388cfb591a9")
 		)
@@ -16173,6 +16515,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 187.96 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17414"
 			(at 187.96 148.59 0)
 			(effects
 				(font
@@ -16249,6 +16600,15 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 177.8 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 177.8 22.86 0)
 			(effects
 				(font
@@ -16466,6 +16826,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 17.78 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "5"
 			(uuid "3271e07c-0cfb-4c57-ab59-86f00fa9e739")
 		)
@@ -16557,6 +16926,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C191023"
+			(at 116.84 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "35ef0854-cdde-432e-8ae7-85bb5bf1ef4d")
 		)
@@ -16635,6 +17013,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 46.99 21.59 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ca75a92c-e807-4b56-ba7a-0626fbabcf2b")
 		)
@@ -16698,6 +17085,15 @@
 		)
 		(property "Description" "7V/12V, 600W Asymmetrical TVS Diode Array, SOT-23"
 			(at 139.7 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C2827658"
+			(at 139.7 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16778,6 +17174,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C45783"
+			(at 133.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "07f55c3f-82ce-4977-aaf8-19dbac0e8104")
 		)
@@ -16840,6 +17245,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 176.53 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17414"
 			(at 176.53 148.59 0)
 			(effects
 				(font
@@ -16918,6 +17332,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17604"
+			(at 113.03 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "29f14aba-6aeb-4c1d-b750-002e59c64441")
 		)
@@ -16978,6 +17401,15 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 17.78 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 17.78 48.26 0)
 			(effects
 				(font
@@ -17060,6 +17492,15 @@
 			)
 		)
 		(property "TME" "15EDGRC-3.5-10P-14-00A(H)"
+			(at 17.78 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 17.78 80.01 0)
 			(effects
 				(font
@@ -17220,6 +17661,24 @@
 			)
 		)
 		(property "Description" "Silicon controlled rectifier, cathode/anode/gate"
+			(at 87.63 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C256433"
+			(at 87.63 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;180"
 			(at 87.63 38.1 0)
 			(effects
 				(font
@@ -17433,6 +17892,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 129.54 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "mtb-led"
 				(path "/9b6fd623-fb10-45ec-a573-56e63cefdd06"
@@ -17488,6 +17956,15 @@
 			)
 		)
 		(property "Description" "Schottky diode"
+			(at 60.96 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C191023"
 			(at 60.96 31.75 0)
 			(effects
 				(font
@@ -17556,6 +18033,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 165.1 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17513"
+			(at 165.1 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17696,6 +18182,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C49678"
+			(at 83.82 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5a837109-09c1-4603-9613-206fc1fdc9f5")
 		)
@@ -17757,6 +18252,24 @@
 			)
 		)
 		(property "Description" "Positive 500mA 35V Linear Regulator, Fixed Output 5V, TO-252 (D-PAK)"
+			(at 116.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C58069"
+			(at 116.84 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "-1.8;0;0"
 			(at 116.84 31.75 0)
 			(effects
 				(font
@@ -17898,6 +18411,24 @@
 			)
 		)
 		(property "Description" "16-Channel LED Driver With DOT Correction and Grayscale PWM Control, TSSOP package with thermal pad"
+			(at 77.47 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C181653"
+			(at 77.47 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;-90"
 			(at 77.47 96.52 0)
 			(effects
 				(font
@@ -18057,6 +18588,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 158.75 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "mtb-led"
 				(path "/9b6fd623-fb10-45ec-a573-56e63cefdd06"
@@ -18187,6 +18727,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPCB_IGNORE" "true"
+			(at 238.76 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "e82b5ed4-c023-4051-ab34-9bdf91114a99")
 		)
@@ -18262,6 +18811,24 @@
 			)
 		)
 		(property "Description" "16-Channel LED Driver With DOT Correction and Grayscale PWM Control, TSSOP package with thermal pad"
+			(at 77.47 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C181653"
+			(at 77.47 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_CORRECTION" "0;0;-90"
 			(at 77.47 162.56 0)
 			(effects
 				(font
@@ -18478,6 +19045,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 158.75 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 158.75 139.7 0)
 			(effects
 				(font
