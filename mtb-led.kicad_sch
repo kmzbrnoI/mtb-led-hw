@@ -12550,7 +12550,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
+		(property "Footprint" "Crystal:Crystal_HC49-4H_Vertical"
 			(at 264.16 60.96 0)
 			(effects
 				(font
