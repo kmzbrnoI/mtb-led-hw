@@ -8528,7 +8528,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.915 100.33) (xy 208.915 106.68)
+			(xy 208.28 100.33) (xy 208.28 106.68)
 		)
 		(stroke
 			(width 0)
@@ -8828,7 +8828,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.915 100.33) (xy 223.52 100.33)
+			(xy 208.28 100.33) (xy 223.52 100.33)
 		)
 		(stroke
 			(width 0)
@@ -12455,7 +12455,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 208.915 116.84 0)
+		(at 208.28 116.84 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -12464,7 +12464,7 @@
 		(dnp no)
 		(uuid "25abcd31-25db-4216-a2fa-0c258baff9bd")
 		(property "Reference" "#PWR018"
-			(at 208.915 123.19 0)
+			(at 208.28 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12473,7 +12473,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 208.915 120.9731 0)
+			(at 208.28 120.9731 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12481,7 +12481,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 208.915 116.84 0)
+			(at 208.28 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12490,7 +12490,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 208.915 116.84 0)
+			(at 208.28 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12499,7 +12499,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 208.915 116.84 0)
+			(at 208.28 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15764,7 +15764,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 208.915 111.76 90)
+		(at 208.28 111.76 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15772,7 +15772,7 @@
 		(dnp no)
 		(uuid "911fedc0-9969-4afe-8daf-0001b7dc0e9a")
 		(property "Reference" "SW1"
-			(at 210.058 110.5478 90)
+			(at 209.423 110.5478 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15781,7 +15781,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 210.058 112.9721 90)
+			(at 209.423 112.9721 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15790,7 +15790,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm_H4.3mm"
-			(at 203.835 111.76 0)
+			(at 203.2 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15799,7 +15799,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.835 111.76 0)
+			(at 203.2 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15808,7 +15808,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 208.915 111.76 0)
+			(at 208.28 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15817,7 +15817,7 @@
 			)
 		)
 		(property "JLCPCB_IGNORE" "true"
-			(at 208.915 111.76 90)
+			(at 208.28 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
