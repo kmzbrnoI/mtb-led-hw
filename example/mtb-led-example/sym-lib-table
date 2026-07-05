@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Railway_Components")(type "KiCad")(uri "/home/apophis/vlak/pcb-misc/kicad-libs/Railway_Components/Railway_Components.kicad_sym")(options "")(descr ""))
+)
