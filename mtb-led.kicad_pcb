@@ -16964,7 +16964,7 @@
 			(justify bottom)
 		)
 	)
-	(gr_text "v1.1 Jan Malina\nKMŽ Brno I 2026"
+	(gr_text "v1.2 Jan Malina\nKMŽ Brno I 2026"
 		(at 84.582 94.488 270)
 		(layer "F.SilkS")
 		(uuid "f96d472a-c1bd-44c9-b0ce-8b9d5b49e7c3")
