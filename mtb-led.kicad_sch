@@ -7032,6 +7032,19 @@
 		)
 		(uuid "5208a878-ffe7-4f33-982c-c5fae8384c08")
 	)
+	(text "All LEDs on: 1.5-3 W of heat / TLC!\n(depends on number of LEDs in circuits)"
+		(exclude_from_sim no)
+		(at 50.8 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 194 0 0 1)
+			)
+		)
+		(uuid "f4cc31a3-03b3-40c2-aa80-6be188736325")
+	)
 	(junction
 		(at 96.52 50.8)
 		(diameter 0)
