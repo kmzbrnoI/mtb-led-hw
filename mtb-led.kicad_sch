@@ -13730,7 +13730,7 @@
 				)
 			)
 		)
-		(property "Value" "BSS138"
+		(property "Value" "AO3400/BSS138"
 			(at 149.86 152.4 90)
 			(effects
 				(font
@@ -13763,6 +13763,15 @@
 		)
 		(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
 			(at 154.94 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C20917"
+			(at 154.94 139.7 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14600,7 +14609,7 @@
 				)
 			)
 		)
-		(property "Value" "BSS138"
+		(property "Value" "AO3400/BSS138"
 			(at 162.56 151.13 90)
 			(effects
 				(font
@@ -14631,6 +14640,15 @@
 		)
 		(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
 			(at 162.56 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C20917"
+			(at 162.56 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14986,6 +15004,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 179.07 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17513"
+			(at 179.07 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15912,6 +15939,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 170.18 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6105fc21-15e8-4b17-b7c0-3ef587a9ca93")
 		)
@@ -16046,6 +16082,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 127 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB_IGNORE" "true"
 			(at 127 142.24 0)
 			(effects
 				(font
@@ -19639,6 +19684,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C2830235"
+			(at 133.35 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3f614453-ba0e-4fbe-b4c5-7015f8a9de0a")
 		)
@@ -20016,6 +20070,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C17414"
+			(at 166.37 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "11f73f9c-8a94-4dca-aa99-c821020400e9")
 		)
@@ -20210,6 +20273,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 179.07 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C17513"
+			(at 179.07 147.32 90)
 			(effects
 				(font
 					(size 1.27 1.27)
