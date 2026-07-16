@@ -7032,7 +7032,7 @@
 		)
 		(uuid "5208a878-ffe7-4f33-982c-c5fae8384c08")
 	)
-	(text "All LEDs on: 1.5-3 W of heat / TLC!\n(depends on number of LEDs in circuits)"
+	(text "All LEDs on: 1.5-3 W of heat / TLC!\n→ 3-6 W total!\n(depends on number of LEDs in circuits)"
 		(exclude_from_sim no)
 		(at 50.8 128.27 0)
 		(effects
@@ -7044,6 +7044,17 @@
 			)
 		)
 		(uuid "f4cc31a3-03b3-40c2-aa80-6be188736325")
+	)
+	(text "0.64 A max"
+		(exclude_from_sim no)
+		(at 83.82 20.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f5188466-bb02-419a-a97b-449c5b2ddc5b")
 	)
 	(junction
 		(at 96.52 50.8)
