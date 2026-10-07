@@ -33,6 +33,16 @@ $ make
  * Outputs: 32 constant-current PWM-controlled outputs for LED connection. Connect
    positive pole of LED to power supply, negative to the MTB-LED module.
 
+## Piece check
+
+Following checks should be performed to mark each manufactured piece as *QC PASS*.
+
+1. Check module communicates on MTBbus.
+2. Check all LEDs are working.
+3. Check button is working.
+4. Calibrate `TS_OFFSET`, check diagnostic including temperature measurement is working.
+4. Check all outputs are working.
+
 ## Authors
 
 MTB-LED v4 module is designed by [Jan Malina](mailto:jan.malina@kmz-brno.cz),
