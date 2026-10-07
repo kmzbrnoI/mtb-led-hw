@@ -41,7 +41,7 @@ Following checks should be performed to mark each manufactured piece as *QC PASS
 2. Check all LEDs are working.
 3. Check button is working.
 4. Calibrate `TS_OFFSET`, check diagnostic including temperature measurement is working.
-4. Check all outputs are working.
+5. Check all outputs are working.
 
 ## Authors
 
